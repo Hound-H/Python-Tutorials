@@ -1,3 +1,2 @@
 # PythonTutorial
-The code with which I operate a remote controlled car, using MicroPython and AppInventor to manipulate it via a phone by linking the two with bluetooth. 
-(We are undergoing rebranding with the project, please come back to us shortly)
+The conglomerate of codes that I came across on my journey to learn and master Python (in progress)
